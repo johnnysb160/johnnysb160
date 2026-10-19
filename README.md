@@ -25,7 +25,5 @@
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/johnny-b-8154b133/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Johnny%20Barros-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/johnnysb_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-johnnysb__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:johnnysb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-johnnysb@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.facebook.com/johnny.barros.714"><img src="https://img.shields.io/badge/-@Johnny.Barros-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
