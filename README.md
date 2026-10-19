@@ -1,29 +1,42 @@
-<h2>👋 Hey there! I'm Johnny.</h2>
+# Johnny Barros
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+Software engineer focused on turning complex operational rules into reliable, usable products.
 
-### 👨🏻‍💻 &nbsp;About Me
+I build end-to-end systems with **.NET, C#, Blazor, WPF, Entity Framework Core, PostgreSQL, and SQLite**. My work sits at the intersection of product engineering, financial workflows, automation, data visualization, and safety-critical business rules.
 
-💡 &nbsp;Exploring new technologies and developing software solutions.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at johnnysb@gmail.com!\
-💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.
+## Selected work
 
-<br><br><br>
+### [AppLifePlanner](https://github.com/johnnysb160/AppLifePlanner-Showcase)
 
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johnnysb160&layout=compact&langs_count=8&hide=java,r&theme=react" align="right"/>
- 
-### 🛠 &nbsp;Tech Stack
+A personal operating system that connects financial planning, routines, goals, and daily execution in one product. The showcase demonstrates layered architecture, deterministic planning rules, secure data handling, PostgreSQL persistence, automated tests, and Windows companion experiences.
 
-💻 &nbsp;.Net Framework | Core | C++ | ASP.NET | MVC<br>
-🌐 &nbsp;HTML | CSS | JavaScript | Bootstrap<br>
-🛢 &nbsp;MySQL | SQL Server<br>
-🔧 &nbsp;Git | Scrum<br>
-🖥 &nbsp;Photoshop | CorelDRAW | Sony Vegas
+`C#` `ASP.NET Core` `Blazor` `EF Core` `PostgreSQL` `WPF` `Docker`
 
-<br>
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/johnny-b-8154b133/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Johnny%20Barros-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:johnnysb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-johnnysb@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+### [TradeGuard](https://github.com/johnnysb160/TradeGuard-Showcase)
+
+A simulation-first futures trading platform designed around explicit risk limits, controlled execution, authenticated communication, and auditable decisions. It combines a desktop terminal integration layer with a modern operator dashboard.
+
+`C#` `.NET` `WPF` `Blazor Hybrid` `MQL5` `SQLite` `HMAC`
+
+### [FamilyTree](https://github.com/johnnysb160/FamilyTree-Showcase)
+
+An interactive genealogy explorer with three complementary graph views and dynamic kinship calculation. The public edition uses an entirely fictional family dataset and keeps the graph behavior, relationship engine, and editing experience intact.
+
+`C#` `Blazor` `EF Core` `SQLite` `JavaScript` `SVG`
+
+## Engineering principles
+
+- Model the real business problem before choosing the implementation.
+- Make safety rules explicit, testable, and observable.
+- Treat privacy and data ownership as product requirements.
+- Build interfaces that explain the system's current state and next action.
+- Prefer maintainable systems over impressive but fragile demos.
+
+## What I work with
+
+`C#` · `.NET` · `ASP.NET Core` · `Blazor` · `WPF` · `Entity Framework Core` · `PostgreSQL` · `SQLite` · `Docker` · `GitHub Actions` · `JavaScript`
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/johnny-b-8154b133/)
+- [Email](mailto:johnnysb@gmail.com)
